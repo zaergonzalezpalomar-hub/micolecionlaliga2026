@@ -1,0 +1,651 @@
+## Checklist oficial Panini LaLiga EA Sports 2026-27 (Liga Este) - 3ª edición
+## Formato equipos:   # Equipo | slug | nombre en bases de datos de fotos | id del escudo (ESPN)
+##                    codigo|nombre|posición|nota
+## Formato especiales: @ Sección | slug
+##                    codigo|nombre|equipo|posición|nota
+## Nota: "2ªed"/"3ª ed" = cromo añadido en esa edición
+
+# Deportivo Alavés | alaves | Deportivo Alavés | 96
+1|Escudo|escudo|
+2|Quique Sánchez Flores|entrenador|
+3|Sivera|portero|
+4|Adrián Rodríguez|portero|3ª ed
+5|Jonny|defensa|
+6|Koski|defensa|
+7|Tenaglia|defensa|
+8|Parada|defensa|
+8 BIS|Garcés|defensa|3ª ed
+9|Yusi|defensa|
+10|Mikel Rodríguez|medio|3ª ed
+11|Benavidez|medio|
+12|Blanco|medio|
+13|Guevara|medio|
+14|Aleñá|medio|
+15|Pablo Ibáñez|medio|
+16|Denis Suárez|medio|
+17|Ángel Pérez|delantero|
+18A|Abde|delantero|
+18B|Mañas|delantero|
+19|Toni Martínez|delantero|
+20|Boyé|delantero|
+20 BIS|Mariano|delantero|
+
+# Athletic Club | athletic | Athletic Bilbao | 93
+1|Escudo|escudo|
+2|Edin Terzic|entrenador|
+3|Unai Simón|portero|
+4|Padilla|portero|
+5|Areso|defensa|
+6A|Paredes|defensa|
+6B|Yeray|defensa|
+7|Vivian|defensa|
+8|Laporte|defensa|
+9A|Yuri|defensa|
+9B|Adama Boiro|defensa|
+10|Jauregizar|medio|
+11|Ruiz de Galarreta|medio|
+12|Rego|medio|
+13|Unai Gómez|medio|
+13 BIS|Prados|medio|2ª ed
+14|Sancet|medio|
+15|Nico Serrano|medio|
+16|Berenguer|delantero|
+17A|Robert Navarro|delantero|
+17B|Maroan|delantero|
+18|Nico Williams|delantero|
+19|Williams|delantero|
+20|Guruzeta|delantero|
+
+# Atlético de Madrid | atletico | Atlético Madrid | 1068
+1|Escudo|escudo|
+2|Cholo Simeone|entrenador|
+3|Oblak|portero|
+4|Musso|portero|
+5|Marcos Llorente|defensa|
+6|Nahuel Molina|defensa|
+7|Pubill|defensa|
+8A|Le Normand|defensa|
+8B|Giménez|defensa|
+9|Hancko|defensa|
+10|Ruggeri|defensa|
+10 BIS|Grimaldo|defensa|3ª ed
+11|Koke|medio|
+12|Barrios|medio|
+13|Johnny Cardoso|medio|
+14A|Rodri Mendoza|medio|
+14B|Obed Vargas|medio|
+15|Álex Baena|medio|
+16|Almada|medio|
+16 BIS|Arnau Ortiz|delantero|3ª ed
+17|Giuliano|delantero|
+18|Lookman|delantero|
+19|Sorloth|delantero|
+20|Julián Alvarez|delantero|
+
+# FC Barcelona | barcelona | Barcelona | 83
+1|Escudo|escudo|
+2|Hansi Flick|entrenador|
+3|Joan García|portero|
+4|Szczesny|portero|
+5|Koundé|defensa|
+6A|Araujo|defensa|
+6B|Christensen|defensa|
+7|Cubarsí|defensa|
+8|Gerard Martín|defensa|
+9|Joao Cancelo|defensa|
+10|Balde|defensa|
+11|Eric García|defensa|
+12|De Jong|medio|
+13|Gavi|medio|
+14|Bernal|medio|
+15|Pedri|medio|
+16|Fermín|medio|
+17|Dani Olmo|delantero|
+18|Ferran Torres|delantero|
+18 BIS|Abdelkarim|delantero|3ª ed
+19|Raphinha|delantero|
+20|Lamine Yamal|delantero|
+
+# Real Betis | betis | Real Betis | 244
+1|Escudo|escudo|
+2|Manuel Pellegrini|entrenador|
+3|Valles|portero|
+4|Pau López|portero|
+4 BIS|Diego Conde|portero|2ª ed
+5A|Aitor Ruibal|defensa|
+5B|Bellerín|defensa|
+6|Diego Llorente|defensa|
+7|Bartra|defensa|
+8|Natan|defensa|
+9|Valentín Gómez|defensa|
+10|Marc Roca|medio|
+11|Amrabat|medio|
+11 BIS|Deossa|medio|3ª ed
+12|Fidalgo|medio|
+13|Facundo Bernal|medio|2ª ed
+14|Lo Celso|medio|
+15|Pablo Fornals|medio|
+16|Isco|medio|
+17|Riquelme|delantero|
+18|Antony|delantero|
+19|Cucho Hernández|delantero|
+20|Abde|delantero|
+
+# RC Celta de Vigo | celta | Celta Vigo | 85
+1|Escudo|escudo|
+2|Claudio Giráldez|entrenador|
+3|Radu|portero|
+4|Iván Villar|portero|
+5|Álvaro Núñez|defensa|
+6|Javi Rueda|defensa|
+7|Javi Rodríguez|defensa|
+8|Starfelt|defensa|
+9A|Marcos Alonso|defensa|
+9B|Yoel Lago|defensa|
+10|Carreira|defensa|
+11|Ilaix Moriba|medio|
+12|Miguel Román|medio|
+13|Hugo Álvarez|medio|
+14|Sotelo|medio|
+14 BIS|Vecino|medio|2ª ed
+15|Fer López|medio|
+16|Swedberg|medio|
+17|Iago Aspas|delantero|
+18A|Pablo Durán|delantero|
+18B|El-Abdellaoui|delantero|
+19|Jutglà|delantero|
+19 BIS|Hugo González|delantero|3ª ed
+20|Borja Iglesias|delantero|
+
+# Deportivo | deportivo | Deportivo de A Coruña | 90
+1|Escudo|escudo|
+2|Antonio Hidalgo|entrenador|
+3|Álvaro Fernández|portero|
+4|Germán Parreño|portero|
+5|Adrià Altimira|defensa|
+6|Loureiro|defensa|
+7|Noubi|defensa|
+8|Dani Barcia|defensa|
+8 BIS|Bright Ede|defensa|3ª ed
+9A|Ximo Navarro|defensa|
+9B|Arnau Comas|defensa|
+10|Quagliata|defensa|
+11|Villares|medio|
+12|Riki|medio|
+13|Mario Soriano|medio|
+14|José Ángel|medio|
+14 BIS|Gijselhat|medio|3ª ed
+15|Luismi Cruz|medio|
+16|Mella|medio|
+17|Asp Jensen|delantero|3ª ed
+18|Yeremay|delantero|
+19|Eddahchouri|delantero|
+20|Nsongo|delantero|
+
+# Elche CF | elche | Elche | 3751
+1|Escudo|escudo|
+2|Martín Anselmi|entrenador|2ª ed
+3|Dituro|portero|
+4|Iturbe|portero|2ª ed
+5|Pétrot|defensa|
+6|Chust|defensa|
+7|Bigas|defensa|
+8|Affengruber|defensa|
+9A|Pedrosa|defensa|
+9B|Sangaré|defensa|
+10|Germán Valera|medio|
+11|Martim Neto|medio|
+12|Gonzalo Villar|medio|
+13A|Fede Redondo|medio|
+13B|Jon Chetauya|medio|
+14|Marc Aguado|medio|
+15|Josan|medio|
+16|Morente|medio|
+17|Ali Houary|delantero|2ª ed
+18|Cepeda|delantero|
+19|Diangana|delantero|
+20|Yago Santiago|delantero|
+
+# RCD Espanyol | espanyol | Espanyol | 88
+1|Escudo|escudo|
+2|Manolo González|entrenador|
+3|Dmitrovic|portero|
+4|Fortuño|portero|
+5|El Hilali|defensa|
+6|Rubén Sánchez|defensa|
+6 BIS|Drkusic|defensa|3ª ed
+7|Riedel|defensa|
+8|Cabrera|defensa|
+9|Miguel Rubio|defensa|
+9 BIS|Hinojo|defensa|3ª ed
+10|Hartman|defensa|2ª ed
+11|Pol Lozano|medio|
+12|Urko|medio|
+13|Edu Expósito|medio|
+14|Jofre|medio|
+15|Marcos Fernández|delantero|2ª ed
+15 BIS|Javi Hernández|delantero|3ª ed
+16|Dolan|delantero|
+17|Pere Milla|delantero|
+18|Puado|delantero|
+19|Kike García|delantero|
+20|Roberto Fernández|delantero|
+
+# Getafe CF | getafe | Getafe | 2922
+1|Escudo|escudo|
+2|Jose Bordalás|entrenador|
+3|David Soria|portero|
+4|Letacek|portero|
+5|Kiko Femenía|defensa|
+6|Djené|defensa|
+7|Boselli|defensa|
+8|Abqar|defensa|
+9|Zaid Romero|defensa|
+10|Davinchi|defensa|
+11|Mario Martín|medio|
+12|Javi Muñoz|medio|
+13|Francho|medio|3ª ed
+14|Terrats|medio|2ª ed
+15|Mangala|medio|3ª ed
+16|Juanmi|delantero|2ª ed
+17|Álex Sancris|delantero|
+18|Borja Mayoral|delantero|
+19|Luis Vázquez|delantero|
+19 BIS|Ünal|delantero|3ª ed
+20|Satriano|delantero|
+
+# Levante UD | levante | Levante | 1538
+1|Escudo|escudo|
+2|Luís Castro|entrenador|
+3|Ryan|portero|
+4|Pablo Campos|portero|
+5|Toljan|defensa|
+6|Elgezabal|defensa|
+6 BIS|Nacho Pérez|defensa|3ª ed
+7|Dela|defensa|
+8|Mandi|defensa|2ª ed
+9|Manu Sánchez|defensa|
+10|Arriaga|medio|
+11|Oriol Rey|medio|
+12|Olasagasti|medio|
+13|Dani Requena|medio|2ª ed
+14A|Victor García|medio|
+14B|Paco Cortés|medio|
+15|Carlos Álvarez|medio|
+16|Tunde|delantero|
+16 BIS|Thiago Fernández|delantero|3ª ed
+17|Brugué|delantero|
+18|Iván Romero|delantero|
+19|Etta Eyong|delantero|
+20|Carlos Espí|delantero|
+20 BIS|Musuayi|delantero|2ª ed
+
+# Real Madrid CF | madrid | Real Madrid | 86
+1|Escudo|escudo|
+2|José Mourinho|entrenador|
+3|Courtois|portero|
+4|Lunin|portero|
+5|Trent|defensa|
+6|Militao|defensa|
+7|Asencio|defensa|
+7 BIS|Konaté|defensa|3ª ed
+8|Rüdiger|defensa|
+9|Huijsen|defensa|
+10A|Carreras|defensa|
+10B|Mendy|defensa|
+11|Tchouaméni|medio|
+12|Fede Valverde|medio|
+13|Camavinga|medio|
+14|Bellingham|medio|
+15A|Güler|medio|
+15B|Thiago Pitarch|medio|
+16A|Mastantuono|medio|
+16B|Brahim Díaz|delantero|
+17|Gonzalo|delantero|
+17 BIS|Carlos Espí|delantero|2ª ed
+18|Rodrygo|delantero|
+19|Vinícius|delantero|
+20|Mbappé|delantero|
+
+# Málaga CF | malaga | Málaga | 99
+1|Escudo|escudo|
+2|Juan Francisco Funes|entrenador|
+3|Alfonso Herrero|portero|
+4|Carlos López|portero|
+5|Puga|defensa|
+6|Murillo|defensa|
+6 BIS|Recio|defensa|3ª ed
+7|Calero|defensa|2ª ed
+8|Einar Galilea|defensa|
+9|Rafita|defensa|
+10|Salinas|defensa|2ª ed
+11|Izan Mérino|medio|
+12|Dani Lorenzo|medio|
+13A|Rafa Rodríguez|medio|
+13B|Juanpe|medio|
+14|Dotor|medio|
+15|Aarón Ochoa|medio|
+16|Larrubia|delantero|
+17|Lobete|delantero|
+18|Adrián Niño|delantero|
+19|Joaquín|delantero|
+20|Chupe|delantero|
+
+# Osasuna | osasuna | Osasuna | 97
+1|Escudo|escudo|
+2|Luis Miguel Ramis|entrenador|
+3|Sergio Herrera|portero|
+4|Aitor Fernández|portero|
+5A|Rosier|defensa|
+5B|Arguibide|defensa|
+6|Boyomo|defensa|
+7|Herrando|defensa|
+8|Catena|defensa|
+9|Abel Bretones|defensa|
+10|Osambela|medio|
+11|Torró|medio|
+12|Moncayola|medio|
+13A|Moi Gómez|medio|
+13B|Iker Muñoz|medio|
+14|Rubén García|medio|
+15|Aimar Oroz|medio|
+16|Iker Benito|medio|
+16 BIS|Dubasin|delantero|3ª ed
+17|Raúl Moro|delantero|
+18|Raúl García|delantero|
+19|Kike Barja|delantero|
+20|Budimir|delantero|
+
+# Racing de Santander | racing | Racing Santander | 87
+1|Escudo|escudo|
+2|José Alberto López|entrenador|
+3|Agirrezabala|portero|3ª ed
+4|Eriksson|portero|
+5|Mantilla|defensa|
+6|Sangalli|defensa|
+6 BIS|Pablo Ramón|defensa|2ª ed
+7|Facu González|defensa|
+8|Javi Castro|defensa|
+8 BIS|Pedro Felipe|defensa|3ª ed
+9A|Manu Hernando|defensa|
+9B|Mario García|defensa|
+10|Jorge Salinas|defensa|
+11|Maguette|medio|
+12|Gustavo Puerta|medio|
+13|Íñigo|medio|
+13 BIS|Sergio Martínez|medio|3ª ed
+14|Aldasoro|medio|
+15|Suleiman|delantero|
+15 BIS|Zabiri|delantero|3ª ed
+16|Andrés Martín|delantero|
+17|Guliashvili|delantero|
+18|Íñigo Vicente|delantero|
+19|Arana|delantero|
+20|Villalibre|delantero|
+
+# Rayo Vallecano | rayo | Rayo Vallecano | 101
+1|Escudo|escudo|
+2|Beñat San José|entrenador|
+3|Batalla|portero|
+4|Cárdenas|portero|
+5|Ratiu|defensa|
+6|Balliu|defensa|
+7|Nobel Mendy|defensa|
+7 BIS|Vertrouwd|defensa|3ª ed
+8|Lejeune|defensa|
+9|Luiz Felipe|defensa|
+10|Pep Chavarría|defensa|
+10 BIS|Pelayo|defensa|3ª ed
+11A|Pedro Díaz|medio|
+11B|Nteka|medio|
+12|Pathé Ciss|medio|
+13|Óscar Valentín|medio|
+14|Unai López|medio|
+15|Isi|medio|
+16|De Frutos|delantero|
+17|Fran Pérez|delantero|
+18|Álvaro García|delantero|
+19|Camello|delantero|
+20|Alemao|delantero|
+
+# Real Sociedad | sociedad | Real Sociedad | 89
+1|Escudo|escudo|
+2|Pellegrino Matarazzo|entrenador|
+3|Remiro|portero|
+4|Marrero|portero|
+5|Aramburu|defensa|
+6|Zubeldia|defensa|
+7|Jon Martín|defensa|
+8|Sergio Gómez|defensa|
+9|Aihen Muñoz|defensa|
+10|Gorrotxategi|medio|
+11|Pablo Marín|medio|
+12|Turrientes|medio|
+13A|Yangel Herrera|medio|
+13B|Zakharyan|medio|2ª ed
+14|Carlos Soler|medio|
+15|Sucic|medio|
+16|Barrenetxea|delantero|
+17|Kubo|delantero|
+18|Guedes|delantero|
+19|Oskarsson|delantero|
+20|Oyarzabal|delantero|
+
+# Sevilla FC | sevilla | Sevilla | 243
+1|Escudo|escudo|
+2|Luis García|entrenador|
+3|Vlachodimos|portero|
+4|Fran González|portero|3ª ed
+5|Carmona|defensa|
+6|Juanlu|defensa|
+6 BIS|Iglesias|defensa|2ª ed
+7|Kike Salas|defensa|
+8|Nianzou|defensa|
+8 BIS|Julio Díaz|defensa|3ª ed
+9A|Castrín|defensa|
+9B|Marcao|defensa|
+10|Suazo|defensa|
+11|Oso|medio|
+12|Agoumé|medio|
+13|Guridi|medio|2ª ed
+14|Sow|medio|
+15|Vargas|medio|
+16|Manu Bueno|medio|
+17|Peque|delantero|
+18|Ejuke|delantero|
+19|Akor Adams|delantero|
+19 BIS|Miguel Sierra|delantero|3ª ed
+20|Isaac Romero|delantero|
+
+# Valencia CF | valencia | Valencia | 94
+1|Escudo|escudo|
+2|Carlos Corberán|entrenador|
+3|Dimitrievski|portero|
+4|Rivero|portero|
+5|Foulquier|defensa|
+6|Copete|defensa|
+7|Tárrega|defensa|
+8A|Cömert|defensa|
+8B|Diakhaby|defensa|
+9|Gayà|defensa|
+10|Jesús Vázquez|defensa|
+11|Pepelu|medio|
+12|Guido Rodríguez|medio|
+13|Javi Guerra|medio|
+14|Luis Rioja|medio|
+15|Ugrinic|medio|
+16|André Almeida|medio|
+16 BIS|Dieng|medio|2ª ed
+17|Hugo Duro|delantero|
+18|Diego López|delantero|
+19|Ramazani|delantero|
+19 BIS|Danjuma|delantero|2ª ed
+20A|Sadiq|delantero|
+20B|Lucas Beltrán|delantero|
+
+# Villarreal CF | villarreal | Villarreal | 102
+1|Escudo|escudo|
+2|Íñigo Pérez|entrenador|
+3|Luiz Júnior|portero|
+4|Arnau Tenas|portero|
+4 BIS|Gulácsi|portero|2ª ed
+5|Mouriño|defensa|
+6A|Pau Navarro|defensa|
+6B|Logan Costa|defensa|
+7A|Foyth|defensa|
+7B|Freeman|defensa|
+8A|Kambwala|defensa|
+8B|Rafa Marín|defensa|
+9|Renato Veiga|defensa|
+10|Sergi Cardona|defensa|
+11|Pape Gueye|medio|
+12|Santi Comesaña|medio|
+13|Maciá|medio|
+14|Moleiro|medio|
+15|Buchanan|delantero|
+16|Oluwaseyi|delantero|
+17|Ayoze|delantero|
+18|Pépé|delantero|
+19|Mikautadze|delantero|
+20|Gerard Moreno|delantero|
+
+@ Últimos Fichajes | fichajes
+UF1|Canales|racing|medio|2ª ed
+UF2|Calatrava|espanyol|medio|2ª ed
+UF3|Dumfries|madrid|defensa|2ª ed
+UF4|Carlos Romero|espanyol|defensa|2ª ed
+UF5|Hjulmand|atletico|medio|2ª ed
+UF6|Fran García|madrid|defensa|2ª ed
+UF7|Bardelli|levante|medio|2ª ed
+UF8|Leo Román|deportivo|portero|2ª ed
+UF9|De Haas|valencia|defensa|2ª ed
+UF10|Febas|celta|medio|2ª ed
+UF11|Juan Cruz|malaga|delantero|2ª ed
+UF12|Aubameyang|deportivo|delantero|2ª ed
+UF13|Sotelo|celta|medio|2ª ed
+UF14|Sato|valencia|delantero|2ª ed
+UF15|Fer Niño|elche|delantero|2ª ed
+UF16|Moscardo|espanyol|medio|2ª ed
+UF17|Sangante|sevilla|defensa|2ª ed
+UF18|Andrés García|getafe|defensa|2ª ed
+UF19|Adeyemi|barcelona|delantero|2ª ed
+UF20|Kang-In Lee|atletico|medio|2ª ed
+UF21|Bernardo Silva|madrid|medio|3ª ed
+UF22|Amatucci|deportivo|medio|3ª ed
+UF23|Mojica|getafe|defensa|3ª ed
+UF24|Gordon|barcelona|delantero|3ª ed
+UF25|Robbie Ure|sevilla|delantero|3ª ed
+UF26|Javi Morcillo|sevilla|medio|3ª ed
+UF27|Nuñez|espanyol|defensa|3ª ed
+UF28|Maffeo|valencia|defensa|3ª ed
+UF29|Cucurella|madrid|defensa|3ª ed
+UF30|Valentini|alaves|defensa|3ª ed
+UF31|Sazonov|getafe|defensa|3ª ed
+UF32|Buonanotte|elche|medio|3ª ed
+UF33|Angeliño|deportivo|defensa|3ª ed
+UF34|Iván Martín|racing|medio|3ª ed
+UF35|Peio Canales|athletic|medio|3ª ed
+UF36|Kochorashvili|sevilla|medio|3ª ed
+UF37|Galán|celta|defensa|3ª ed
+UF38|Parrott|betis|delantero|3ª ed
+UF39|Diomande|madrid|delantero|3ª ed
+UF40|Rodri|barcelona|medio|3ª ed
+
+@ ADN LaLiga Prime | adn
+1|Antony|betis|delantero|
+2|Bellingham|madrid|medio|
+3|Courtois|madrid|portero|
+4|Fermín|barcelona|medio|
+5|Julián Alvarez|atletico|delantero|
+6|Lamine Yamal|barcelona|delantero|
+7|Lookman|atletico|delantero|
+8|Mbappé|madrid|delantero|
+9|Moleiro|villarreal|medio|
+10|Nico Williams|athletic|delantero|
+11|Oyarzabal|sociedad|delantero|
+12|Pedri|barcelona|medio|
+13|Raphinha|barcelona|delantero|
+14|Unai Simón|athletic|portero|
+15|Vinícius|madrid|delantero|
+
+@ LaLiga Fantasy | fantasy
+1|Hansi Flick|barcelona|entrenador|
+2|Joan García|barcelona|portero|
+3|Lejeune|rayo|defensa|
+4|Fornals|betis|medio|
+5|Lamine Yamal|barcelona|delantero|
+6|Luis Milla|getafe|medio|
+7|Pedri|barcelona|medio|
+8|Luis Milla|getafe|medio|repetido en el listado oficial
+9|Mbappé|madrid|delantero|
+
+@ Draft 23 | draft23
+1|Asencio|madrid|defensa|
+2|Balde|barcelona|defensa|
+3|Barrios|atletico|medio|
+4|Carlos Espí|levante|delantero|
+5|Carreras|madrid|defensa|
+6|Cubarsí|barcelona|defensa|
+7|Fer López|celta|medio|
+8|Gavi|barcelona|medio|
+9|Gonzalo|madrid|delantero|
+10|Huijsen|madrid|defensa|
+11|Jauregizar|athletic|medio|
+12|Javi Guerra|valencia|medio|
+13|Jon Martín|sociedad|defensa|
+14|Juanlu|sevilla|defensa|
+15|Marc Bernal|barcelona|medio|
+16|Mastantuono|madrid|medio|
+17|Oso|sevilla|medio|
+18|Pau Navarro|villarreal|defensa|
+19|Pubill|atletico|defensa|
+20|Renato Veiga|villarreal|defensa|
+21|Rodri Mendoza|atletico|medio|
+22|Thiago Pitarch|madrid|medio|
+23|Yeremay|deportivo|delantero|
+
+@ Draft 23 Kromix | kromix
+K1|Asencio|madrid|defensa|
+K2|Balde|barcelona|defensa|
+K3|Barrios|atletico|medio|
+K4|Carlos Espí|levante|delantero|
+K5|Carreras|madrid|defensa|
+K6|Cubarsí|barcelona|defensa|
+K7|Fer López|celta|medio|
+K8|Gavi|barcelona|medio|
+K9|Gonzalo|madrid|delantero|
+K10|Huijsen|madrid|defensa|
+K11|Jauregizar|athletic|medio|
+K12|Javi Guerra|valencia|medio|
+K13|Jon Martín|sociedad|defensa|
+K14|Juanlu|sevilla|defensa|
+K15|Marc Bernal|barcelona|medio|
+K16|Mastantuono|madrid|medio|
+K17|Oso|sevilla|medio|
+K18|Pau Navarro|villarreal|defensa|
+K19|Pubill|atletico|defensa|
+K20|Renato Veiga|villarreal|defensa|
+K21|Rodri Mendoza|atletico|medio|
+K22|Thiago Pitarch|madrid|medio|
+K23|Yeremay|deportivo|delantero|
+
+@ Extra Sticker Bronce | extra-bronce
+Br1|Lamine Yamal|barcelona|delantero|
+Br2|Mbappé|madrid|delantero|
+Br3|Nico Williams|athletic|delantero|
+Br4|Pedri|barcelona|medio|
+Br5|Oblak|atletico|portero|
+
+@ Extra Sticker Plata | extra-plata
+P1|Lamine Yamal|barcelona|delantero|
+P2|Mbappé|madrid|delantero|
+P3|Nico Williams|athletic|delantero|
+P4|Pedri|barcelona|medio|
+P5|Oblak|atletico|portero|
+
+@ Extra Sticker Oro | extra-oro
+O1|Lamine Yamal|barcelona|delantero|
+O2|Mbappé|madrid|delantero|
+O3|Nico Williams|athletic|delantero|
+O4|Pedri|barcelona|medio|
+O5|Oblak|atletico|portero|
