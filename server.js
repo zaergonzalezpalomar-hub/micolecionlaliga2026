@@ -7,7 +7,11 @@ const crypto = require('node:crypto');
 
 const PORT = process.env.PORT || 3000;
 const DATA_DIR = process.env.DATA_DIR || path.join(__dirname, 'data');
-const PUBLIC_DIR = path.join(__dirname, 'public');
+// Funciona tanto con las carpetas public/ y data/ como con todos los archivos sueltos en la raíz.
+const PUBLIC_DIR = fs.existsSync(path.join(__dirname, 'public', 'index.html')) ? path.join(__dirname, 'public') : __dirname;
+const FLAT = PUBLIC_DIR === __dirname;
+const STATIC_FILES = new Set(['/index.html', '/app.js', '/style.css', '/icon.svg', '/manifest.webmanifest']);
+const dataFile = name => (fs.existsSync(path.join(__dirname, 'data', name)) ? path.join(__dirname, 'data', name) : path.join(__dirname, name));
 fs.mkdirSync(DATA_DIR, { recursive: true });
 
 /* ---------- Secreto de sesión ---------- */
@@ -23,7 +27,7 @@ const SECRET = loadSecret();
 
 /* ---------- Checklist ---------- */
 function parseChecklist() {
-  const lines = fs.readFileSync(path.join(__dirname, 'data', 'checklist.txt'), 'utf8').split(/\r?\n/);
+  const lines = fs.readFileSync(dataFile('checklist.txt'), 'utf8').split(/\r?\n/);
   const teams = [];
   const sections = [];
   const stickers = [];
@@ -239,7 +243,7 @@ async function loadPhotos() {
   for (const r of await db.all('SELECT key, url FROM photos')) photoMap.set(r.key, r.url);
   // Fotos ya comprobadas que vienen con la web (TheSportsDB y Wikipedia). Tienen prioridad.
   try {
-    const seed = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'photos.json'), 'utf8'));
+    const seed = JSON.parse(fs.readFileSync(dataFile('photos.json'), 'utf8'));
     for (const [k, url] of Object.entries(seed)) {
       const i = k.indexOf('|');
       if (url && /^https:\/\//.test(url)) photoMap.set(`${k.slice(0, i)}|${norm(k.slice(i + 1))}`, url);
@@ -360,6 +364,7 @@ const server = http.createServer(async (req, res) => {
     if (url.pathname.startsWith('/api/')) return await api(req, res, url);
     let rel = decodeURIComponent(url.pathname);
     if (rel === '/') rel = '/index.html';
+    if (FLAT && !STATIC_FILES.has(rel) && !rel.startsWith('/img/')) { res.writeHead(404, { 'Content-Type': 'text/plain' }); return res.end('No encontrado'); }
     const file = path.normalize(path.join(PUBLIC_DIR, rel));
     if (!file.startsWith(PUBLIC_DIR + path.sep)) { res.writeHead(403); return res.end(); }
     fs.readFile(file, (err, buf) => {
